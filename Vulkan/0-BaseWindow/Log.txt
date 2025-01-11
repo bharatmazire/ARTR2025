@@ -1,0 +1,4 @@
+Log.txt Created Successfully!!! 
+IN : uninitialize()
+Log File Closing...
+

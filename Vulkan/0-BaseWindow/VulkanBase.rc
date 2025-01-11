@@ -1,0 +1,3 @@
+#include"VulkanBase.h"
+
+MY_ICON ICON VulkanBase.ico
