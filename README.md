@@ -8,5 +8,5 @@ Technologies Included : Vulkan, DirectX12, Metal, WebGPU
 **References :**
 
 *Vulkan*
-- [Vulkan In 30 Minutes](__https://renderdoc.org/vulkan-in-30-minutes.html__)
-- [Vulkan and 3d Graphics Coffee with Shannon woods](__https://developers.googleblog.com/en/learn-about-vulkan-and-3d-graphics-coffee-with-shannon-woods/__)
+- [Vulkan In 30 Minutes](https://renderdoc.org/vulkan-in-30-minutes.html)
+- [Vulkan and 3d Graphics Coffee with Shannon woods](https://developers.googleblog.com/en/learn-about-vulkan-and-3d-graphics-coffee-with-shannon-woods/)
